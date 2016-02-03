@@ -1,0 +1,129 @@
+html {
+	height: 100%;
+	}
+body {
+	background-image:url('bg6.jpg');
+	font: 11px/1.5 Verdana, Arial, Helvetica, sans-serif;
+	color:#488AC7;
+	text-align:center;
+	z-index: -1;
+	background-size:100%;
+	}
+#tudo{
+	position:relative;
+	}
+#layout {
+	margin-top:25%;
+	margin-left:35%;
+	margin-right:30%;
+	width:400px;
+	height:270px;
+	border:1px solid #FFFFFF;
+	background-image:url('bg4.png');
+	}
+#frmLogin .txt{
+	border:1px solid #FFFFFF;
+	background:#000000;
+	color:#FFFFFF;
+	font: 11px/1.5 Verdana, Arial, Helvetica, sans-serif;
+	}
+textarea {
+	resize:none;
+	margin-left:120px;
+}
+a {
+	color:red;
+	}
+a:hover  img{
+	width:350px;
+	height:250px;
+	}
+a:hover{
+	color:white;
+	}
+hr {
+	position:relative;
+	top:-100px;
+	border:1px solid white;
+	}
+#principal {
+margin:auto;
+	text-align:center;
+	height:300px;
+	width:50%;
+	left:30%; 	
+	border:1px solid #2B547E;
+	background-image:url('bg4.png');
+	}
+#tablelist { 
+	font: 11px/1.5 Verdana, Arial, Helvetica, sans-serif;
+  	}
+.list {
+	width:800px;
+	font: 9px/1.5 Verdana, Arial, Helvetica, sans-serif;
+	background:#000000;
+	}
+.out {
+	font: 11px/1.5 Verdana, Arial, Helvetica, sans-serif;
+	color:red;
+	background:0;
+	border:1px solid white;
+	}
+.titulo{
+	width:100%;
+	background:#2B547E;
+	text-align:center; 
+	font-weight:bold;
+	color:#FFFFFF;
+	}
+.button {
+	font: 11px/1.5 Verdana, Arial, Helvetica, sans-serif;
+	border:1px solid #FFFFFF;
+	background:#b43a3b;
+	color:#FFFFFF;
+	}
+#tabela {
+	left:-50px;
+	}
+.table{
+	top:-100px;
+	position:relative;
+	border:1px solid #FFFFFF;
+	color:#FFFFFF;
+	background:#000000;
+	font: 10px/1.5 Verdana, Arial, Helvetica, sans-serif;
+	}
+.dados{
+	top:-100px;
+	color:#FFFFFF;
+	position:relative;
+	font: 10px/1.5 Verdana, Arial, Helvetica, sans-serif;
+	left:-50px;
+	}
+.lbl{
+	top:-100px;
+	left:120px;
+	color:#FFFFFF;
+	font: 11px/1.5 Verdana, Arial, Helvetica, sans-serif;
+	position:relative;
+	}
+.lbldados{
+	top:-100px;
+	left:20px;
+	font: 11px/1.5 Verdana, Arial, Helvetica, sans-serif;
+	position:relative;
+	}
+h1, h2, h3 {
+	margin: 0.8em 0;
+	color:#FFFFFF;
+	font-size:1.4em;
+	}
+h2 {
+	font-size:1.2em;
+	}
+h3 {
+	font-size:1.0em;
+	}
+h6 {
+	font: 8px Verdana, Arial, Helvetica, sans-serif;
+	}
